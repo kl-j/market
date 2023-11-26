@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Frijol
+comment1.params=
+comment1.target=Frijol()
+comment2.params=cantidad
+comment2.target=double\ calcularCosto(double)
+numComments=3
